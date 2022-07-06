@@ -1,0 +1,42 @@
+.table td{
+    padding: 0;
+    margin: 0;
+    width: 100px;
+    height: 100px;
+}
+.bg-black{
+    background-color: black;
+}
+.calendar{
+    font-weight: bold;
+    width: 65%;
+    margin: 50px auto;
+}
+.calendar table{
+    width: 100%;
+}
+.calendar td{
+    text-align: center;
+    height: 50px;
+}
+.no-boder{
+    border: 0;
+}
+.text-red{
+    color: red;
+}
+.text-blue{
+    color: blue;
+}
+.bg-red{
+    background-color: red;
+    color: white;
+}
+.bg-blue{
+    background-color: blue;
+    color: white;
+}
+.bg-orange{
+    background-color: orange;
+    color: white;
+}
